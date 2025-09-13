@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats-beta-plum-25.vercel.app/api/top-langs/?username=thiagopio&layout=compact&theme=dracula&bg_color=0d1117&title_color=fff)
 
 
-### Conect with me 
+## Conect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagopio/)
 
 
